@@ -44,7 +44,7 @@ For proper functioning, `.env` file is required containing all database and 3rd 
 Parameters `[CHAIN_ID]_NODE_URL` should hold valid urls to ethereum nodes; Parameter `ETHERSCAN_KEY` should be equal to
 Etherscan API key assigned to user.
 
-For docker container, values should be placed in `.env_docker` file since urls for database are differrent than normal
+For docker container, values should be placed in `.docker_env` file since urls for database are differrent than normal
 instance
 
 # API
